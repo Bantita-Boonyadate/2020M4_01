@@ -1,0 +1,18 @@
+p {
+	color: green;
+}
+.x1 {
+	color: red;
+}
+.x2 {
+	color: teal;
+}
+p span.x2 {
+	color: purple;
+}
+span {
+	color: blue;
+}
+h4 {
+	color:gray;
+}
